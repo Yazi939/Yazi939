@@ -150,5 +150,4 @@
   <p>✨ <strong>Давайте создавать что-то удивительное вместе!</strong> ✨</p>
   
   <img src="https://komarev.com/ghpvc/?username=Yazi939&label=Просмотры+профиля&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://custom-icon-badges.demolab.com/github/followers/Yazi939?color=blueviolet&style=for-the-badge&label=Подписчики" alt="подписчики" />
 </div> 

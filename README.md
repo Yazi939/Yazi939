@@ -151,6 +151,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=Yazi939&label=Просмотры+профиля&color=blueviolet&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/Yazi939?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yazi939?logo=github&label=Подписчики&style=for-the-badge&color=blueviolet" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Yazi939?label=Подписчики&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
   </a>
 </div> 

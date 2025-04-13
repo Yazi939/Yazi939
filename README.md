@@ -66,10 +66,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Опыт работы</b>
 
-<div align="center">
-  <img align="center" src="https://github-readme-timeline.garretcharp.com/timeline?username=Yazi939&stroke=0891b2&bg=0d1117&count=8&height=120&dates=ffffff&date_bg=2563eb" />
-</div>
-
 <ul>
   <li>💻 <b>Фулл-стек разработчик</b> — 2 года (коммерческие и pet-проекты)</li>
   <li>🎨 <b>Веб-дизайнер</b> — 1 год</li>

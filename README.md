@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Yazi939">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&width=800&lines=Создаю+красивые+и+функциональные+веб-решения;Комбинирую+современные+технологии+и+дизайн;Превращаю+идеи+в+цифровые+продукты" alt="Typing SVG" />
+
   </a>
 </div>
 
